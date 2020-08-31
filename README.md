@@ -18,13 +18,7 @@ npm run build
 npm run build --report
 
 # 测试内容987654
-
-# 测试内容2
-
-# dev分支内容
-
-# 分支111
-发   大了吗
+# 怎么解决
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
